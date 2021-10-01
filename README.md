@@ -36,17 +36,22 @@ Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
+The software the students will be using is Scratch. They will use their school email accounts to register and begin watching tutorials and exploring other Scratch projects that have been made public. Students will then move onto working on creating their own projects. Direct instruction will include a model for them to follow and offer sample codes. If students are less familiar they can work in a group and for those that are advanced can generate thier own code. 
 ### Hardware Specifications
 
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
 
+All students will beed their computors, monitors, mouse, keyboards and can use headphones if they choose to (for sound purposes).
 ### Application
 
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
 
+Utilizing the resources in class, students will have access to everything they need in order to construct their Scratch projects. In class activity will include an "I do, we do, you do" model and will follow with guided instruction until the majority of the class gets more comfortable. Students will then switch to working more and more independently. Evidence based practices will include providing a low stress environment and scaffolding opportunities as students will have the option to work together and the due dates can be adjusted by 2 days (Schulte-Korne, 2016).
+
+Schulte-Körne G. (2016). Mental Health Problems in a School Setting in Children and Adolescents. Deutsches Arzteblatt international, 113(11), 183–190. https://doi.org/10.3238/arztebl.2016.0183
 ### Impacts
 
 How will the technology help *all* students learn? In this section, you can also
