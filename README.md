@@ -32,7 +32,7 @@ The lesson plan begins with showing studends how to sign up for Scratch. Then st
 
 
 The software the students will be using is Scratch. They will use their school email accounts to register and begin watching tutorials and exploring other Scratch projects that have been made public. Students will then move onto working on creating their own projects. Direct instruction will include a model for them to follow and offer sample codes. If students are less familiar they can work in a group and for those that are advanced can generate thier own code. 
-### Hardware Specifications
+### Hardware Specifications 
 
 
 All students will beed their computors, monitors, mouse, keyboards and can use headphones if they choose to (for sound purposes).
