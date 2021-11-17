@@ -35,7 +35,12 @@ The software the students will be using is Scratch. They will use their school e
 ### Hardware Specifications 
 
 
-All students will beed their computors, monitors, mouse, keyboards and can use headphones if they choose to (for sound purposes).
+All students will beed their computors, monitors, mouse, keyboards and can use headphones if they choose to (for sound purposes). The specifics are as follow:
+Windows 10 Enterprise
+16GB
+Intel(R)
+i5-6500 CPU @ 3.20 GHz
+Storage Capacity - 379 GB left and 191 used
 ### Application
 
 
