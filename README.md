@@ -1,7 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5733025&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-The goal is that students gain fundamental understanding of how computers operate. This includes understanding the difference between hardware and software and beginning to code (Scratch and some Python). To accomplish this formative assessments must be taken to understand where the majority of the cohort is (Google Survey). From there the ISTE standards can be incorporated and modified according to the class results. 
+The goal is that students gain fundamental understanding of how computers operate. This includes understanding the difference between hardware and software and beginning to code (Scratch). To accomplish this formative assessments must be taken to understand where the majority of the cohort is (Google Survey). From there the ISTE standards can be incorporated and modified according to the class results. The primary ISTE standard that will be emphasized in this edTech plan is 
+ISTE standard 5.4.a Design CT activities where data can be obtained, analyzed and represented to support problem-solving and learning in other content areas. (https://www.iste.org/standards/iste-standards-for-computational-thinking) 
+
 
 ## Context
 
@@ -18,7 +20,7 @@ Currently, I teach in Davis Joint Unified School district, and will be focusing 
 
 
 
-Majority of the 7th grade students are famililar with how to use a computer however do not have some of the software programs at home. Reflecting on my previous classes, it seems that either the students have a fair amount of knowledge and expertise from past experiences, and there are students who are new to learning about Computer Science. Thus, this divide guides me to the middle and begin with students on Google Drive and then working our way towards Scratch and then Python. I do make an effort, to give students who are confident in their abilities an opporunity to help others that do need extra support for two reasons, 
+Majority of the 7th grade students are famililar with how to use a computer however do not have some of the software programs at home. Reflecting on my previous classes, it seems that either the students have a fair amount of knowledge and expertise from past experiences, and there are students who are new to learning about Computer Science. Thus, this divide guides me to the middle and begin with students on Google Drive and then working our way towards Scratch. I do make an effort, to give students who are confident in their abilities an opporunity to help others that do need extra support for the following reasons, 
 
 1. It offers them a challenge to think critically and trouble shoot
 2. Offers an environment where students are learning from each other rather than 
@@ -26,6 +28,8 @@ Majority of the 7th grade students are famililar with how to use a computer howe
 4. The 7th grade classes often stay together with their cohorts, so it is my hope that I am able to foster a caring environment rather than competition or judgemental based.
 
 Each year we (the electives department) are allotted $1000 for the students without including any software programs that I seek. So far, students have access to the 2017 Adobe Suite and Tynker. Students also have drawing pads with pencils and headphones. Students are familiar with Google Drive and Canvas, our grading/online platform. Although teachers use Q for grading purposes and attendance students do not engage with that at all. The school district does block sites such as Netflix, Hulu, and gaming sites from the computer and the computers are antivirus protected. 
+
+The situational environment also includes 
 
 ## Plan
 
