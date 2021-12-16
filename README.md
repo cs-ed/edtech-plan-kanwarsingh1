@@ -5,12 +5,14 @@ The goal is that students gain fundamental understanding of how computers operat
 
 ## Context
 
-This course will focus on 7th grade Computer Science. 
+This course will focus on 7th grade Computer Science elective course. The course is comprised of all experiences of Computers and available to all students at our school who are not taking a language or music. Students take this course for 10 weeks and then rotate to their next elective. Since students come in with different expertise an effort is made to give all students challenging cirriculum at their pace so that they grow academically. For example, for when we work on Scratch or code.org students may choose to produce a more complex code or try working on an additional project. 
+
 ### Course
 
 
 
-Currently, I teach in Davis Joint Unified School district, and will be focusing on my 7th grade students to ensure I can provide fundamental knowledge and adequate resources that they can use as a tool later on in their academic journey. Computer Arts is offerred quarter long to our 7th grade students. They have a computer lab with 32 desktops and post/in pandemic they also carry their own chromebooks to use for their other classes. Students who come into the Computer Lab are working on Dell computers whereas their personal computers are all Chromebook. However, in our class, they only use the lab computers. Students also have Lego Mindstorm and VEX IQ robots however we have not gotten a chance to use them as my first year teaching, we went into the pandemic. I would like to implement the robots and understand how to code them online. 
+Currently, I teach in Davis Joint Unified School district, and will be focusing on my 7th grade students to ensure I can provide fundamental knowledge and adequate resources that they can use as a tool later on in their academic journey. Computer Arts is offerred quarter long to our 7th grade students. They have a computer lab with 32 desktops and post/in pandemic they also carry their own chromebooks to use for their other classes. Students who come into the Computer Lab are working on Dell computers whereas their personal computers are all Chromebook. However, in our class, they only use the lab computers. Students also have Lego Mindstorm and VEX IQ robots however we have not gotten a chance to use them as my first year teaching, we went into the pandemic. This class objectives would include learning about Google Drive (docs, sheets, sites, slides and forms), profiency in binary numbers and practice with computational thinking, and basic programming through block based coding on Scratch and code.org. Students will be able to check for updates. Students will successfully learn how to navigate Google Chrome to research different academic topics, learn to open new tabs and windows and other key functions by using keyboard shortcuts. Along the course students will be able to increase their typing speed. I would like to implement the robots and understand how to code them online. The primary focus is on the 7th grade Computer Science class learning how to use Scratch.
+
 
 ### Situation
 
@@ -28,10 +30,14 @@ Each year we (the electives department) are allotted $1000 for the students with
 ## Plan
 
 The lesson plan begins with showing studends how to sign up for Scratch. Then students will watch tutorials using the Explore. Students will then begin to work on "Animating your name" tutorial. Students will gradually move onto creating a maze game and frogger. 
+
+
 ### Software Specifications
 
+Students do have access to installed software applications such as the Adobe Suite Creative Cloud, Microsoft - Word and Excel, Chrome, and Edge. 
+The software the students will be using is Scratch. This is not installed on the desktops, thus students will have to log in using Chrome browsers. They will use their school email accounts to register and begin watching tutorials and exploring other Scratch projects that have been made public. Students will then move onto working on creating their own projects. Direct instruction will include a model for them to follow and offer sample codes. If students are less familiar they can work in a group and for those that are advanced can generate thier own code. 
 
-The software the students will be using is Scratch. They will use their school email accounts to register and begin watching tutorials and exploring other Scratch projects that have been made public. Students will then move onto working on creating their own projects. Direct instruction will include a model for them to follow and offer sample codes. If students are less familiar they can work in a group and for those that are advanced can generate thier own code. 
+
 ### Hardware Specifications 
 
 
@@ -41,6 +47,8 @@ Windows 10 Enterprise
 Intel(R)
 i5-6500 CPU @ 3.20 GHz
 Storage Capacity - 379 GB left and 191 used
+
+
 ### Application
 
 
