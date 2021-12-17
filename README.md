@@ -81,7 +81,7 @@ Since students will have varying levels of expertise and familiarity with Scratc
 6. Begin by looking over the different block codes on the left hand side under code (coded will be categorized in different colors based on different sections)
 7. Begin with "When flag is clicked code" this will be the Yellow code located in "Events" 
 
-
+In addition, students will also have the option to Youtube a Scratch project and follow along visually. The goal is to provide ample amounts of resourses and let them decide what works best for them. 
 ### Impacts
 
 
