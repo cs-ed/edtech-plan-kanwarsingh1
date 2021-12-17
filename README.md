@@ -29,8 +29,6 @@ Majority of the 7th grade students are famililar with how to use a computer howe
 
 Each year we (the electives department) are allotted $1000 for the students without including any software programs that I seek. So far, students have access to the 2017 Adobe Suite and Tynker. Students also have drawing pads with pencils and headphones. Students are familiar with Google Drive and Canvas, our grading/online platform. Although teachers use Q for grading purposes and attendance students do not engage with that at all. The school district does block sites such as Netflix, Hulu, and gaming sites from the computer and the computers are antivirus protected. 
 
-The situational environment also includes 
-
 ## Plan
 
 The lesson plan begins with showing studends how to sign up for Scratch. Then students will watch tutorials using the Explore. Students will then begin to work on "Animating your name" tutorial. Students will gradually move onto creating a maze game and frogger. 
@@ -39,27 +37,56 @@ The lesson plan begins with showing studends how to sign up for Scratch. Then st
 ### Software Specifications
 
 Students do have access to installed software applications such as the Adobe Suite Creative Cloud, Microsoft - Word and Excel, Chrome, and Edge. 
-The software the students will be using is Scratch. This is not installed on the desktops, thus students will have to log in using Chrome browsers. They will use their school email accounts to register and begin watching tutorials and exploring other Scratch projects that have been made public. Students will then move onto working on creating their own projects. Direct instruction will include a model for them to follow and offer sample codes. If students are less familiar they can work in a group and for those that are advanced can generate thier own code. 
+The software the students will be using is Scratch. This is not installed on the desktops, thus students will have to log in using Chrome browsers. They will use their school email accounts to register and begin watching tutorials and exploring other Scratch projects that have been made public. Students will then move onto working on creating their own projects. Direct instruction will include a model for them to follow and offer sample codes. If students are less familiar they can work in a group and for those that are advanced can generate thier own code. Students also have access to their Chromebooks which does not have Adobe Creative Cloud nor Microsoft applications 
 
 
 ### Hardware Specifications 
 
 
 All students will beed their computors, monitors, mouse, keyboards and can use headphones if they choose to (for sound purposes). The specifics are as follow:
+Dell OptiLex 7050
 Windows 10 Enterprise
 16GB
 Intel(R)
-i5-6500 CPU @ 3.20 GHz
-Storage Capacity - 379 GB left and 191 used
+Power Button
+2 USB Jacks in the front 4 USB Jacks in the back
+HDMI Port
+Monitor
 
 
 ### Application
 
 
-Utilizing the resources in class, students will have access to everything they need in order to construct their Scratch projects. In class activity will include an "I do, we do, you do" model and will follow with guided instruction until the majority of the class gets more comfortable. Students will then switch to working more and more independently. Evidence based practices will include providing a low stress environment and scaffolding opportunities as students will have the option to work together and the due dates can be adjusted by 2 days (Schulte-Korne, 2016).
+Utilizing the resources in class, students will have access to the computer resources they need in order to construct their Scratch projects. In class activity will include an "I do, we do, you do" model and will follow with guided instruction until the majority of the class gets more comfortable. Students will then switch to working more and more independently. Evidence based practices will include providing a low stress environment and scaffolding opportunities as students will have the option to work together and the due dates can be adjusted by 2 days (Schulte-Korne, 2016).
 
 Schulte-Körne G. (2016). Mental Health Problems in a School Setting in Children and Adolescents. Deutsches Arzteblatt international, 113(11), 183–190. https://doi.org/10.3238/arztebl.2016.0183
+
+A sample lesson plan would look like this:
+
+Students will be greeted at the door and walk into class quietly. They will begin logging onto their computers using their district login. 
+
+==teacher== Turns on the projector to show students live screen. Teacher logs into his/her Scratch account using (https://scratch.mit.edu/) 
+==student== Follow along on the screen and login using their own logins
+==teacher== Will demonstrate examples of how other codes have been built by utilizing the explore and tutorials tab. Students will be able to discuss different types of codes and visually see how the code is carried out by "seeing inside" the code (a tool on Scratch that allows you to see the structure of the code. 
+==student== After exploring Scratch students will have two options, to begin a tutorial and follow along or they may choose to start from Scratch and make a project. 
+==teacher== Will provide the following structure: code must have at least two characters (in Scratch known as Sprites) - one of these sprites must move in a 90 degree angle, a drawn background, and voice imbedded into the code. Students will then either begin working on their codes independently or follow along step by step with the teacher. 
+
+Since students will have varying levels of expertise and familiarity with Scratch, students will be able to follow along but if further accomodations are needed a sample starter code will be provided for them to copy. A sample code would look like this:
+
+1. Click "Choose the Sprite" icon in the bottom right hand section
+2. Toggle on the different options and click choose a sprite (if you have chosen a sprite/character online then you will have to save that image and click on "upload")
+3. ==optional== you may customize your sprite in the drawings section (change color, size, etc). Do this at least twice so you will end up with two sprites. 
+4. Next on the bottom right hand side click on "Choose a backdrop" from here you can choose a backdrop or create one using the "paint" option. You can also upload a backdrop as well (just make sure you have your image that you want to use saved). 
+5. Think of what you want your characters/sprites to do? Will they talk to each other? Go to the beach? Think of your scenerio 
+6. Begin by looking over the different block codes on the left hand side under code (coded will be categorized in different colors based on different sections)
+7. Begin with "When flag is clicked code" this will be the Yellow code located in "Events" 
+
+
 ### Impacts
 
 
 Technology is power tool that is embedded into our 21st century lifestyles. It has the capability of supporting students and helping them become future engineers of computer science. During the COVID-19 pandemic, students accross the nation had to quickly adapt and continue their education away from home. It became the only linking point to academia and how familiar and comfortable with using a computer became either do-able or un-bearable. Teaching in the pandemic I realized students whose first language was not English had a more difficult time transitioning. On the contrary, the internet also provides resources that otherwise may not be readily available such the ability to translate languages or change the settings to accomodate to the language. When technology is used effectively it cn help minimize the opportunity gap by allowing students to be challenged and/or students who may need more supports to have the option of audio listening to a book, highlight changing the reading level, etc. As we continue forward in our touch screen reality, face recognizition sytems, touch screen refrigerators, self driving cars,  I am determined that technology willl be a part of our future. The more students are are given opportunities to interact with Computer Science at a younger age, the more they will have fundamental knowledge to opening up possible doors. 
+
+The criteria would be set in a checklist format and would include all students. I do want to note that women and students of color may be less likely to join STEM but with this particular class in electives all students are given the opportunity to explore this field (Espinosa, 2011). Specifically, focusing on my students and doing my best to meet their needs grading criteria will be set in two ways, effort ( a lot of my students learn from trial and error so may not get far as some of their peers), completion of Scratch (did they meet the criteria of the 2 sprites, background, and voice?). In an effort to be equitable, the completion criteria is only looking for if students have the code, the code does not necessarily need to fully function. I would further look at their codes on their screens and help scaffold, guide and troubleshoot the codes that do not work with them so they are able to visualize the process rather than penalizing them. This instructional plan is moreso focused on enuring students gain a positive learning experience. 
+
+Espinosa, L. (2011). Pipelines and pathways: Women of color in undergraduate STEM majors and the college experiences that contribute to persistence. Harvard Educational Review, 81(2), 209-241.
